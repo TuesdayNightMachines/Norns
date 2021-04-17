@@ -1,7 +1,7 @@
 -- nmEncoderTest
 -- 1.0 @NightMachines
 -- based on a script posted on
--- the Norns forums
+-- the llllllll.co forum
 --
 -- Test your Encoders and try
 -- out Sensitivity & Acceleration.
