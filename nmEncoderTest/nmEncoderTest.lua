@@ -78,7 +78,7 @@ function redraw()
     screen.text_right("e"..i..": "..counter[i])
   end
   screen.move(0,25)
-  screen.text("Sensitivty: "..mySens)
+  screen.text("Sensitivity: "..mySens)
   screen.move(0,35)
   screen.text("Acceleration: "..tostring(myAccel))
   screen.move(0,45)
