@@ -1,7 +1,7 @@
 -- nmEncoderTest
 -- 1.0 @NightMachines
--- based on a script by @dan_derks
--- llllllll.co/t/norns-jumpy-defect-encoders/18856
+-- based on a script posted on
+-- the Norns forums
 --
 -- Test your Encoders and try
 -- out Sensitivity & Acceleration.

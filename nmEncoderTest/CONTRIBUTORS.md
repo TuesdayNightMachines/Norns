@@ -1,1 +1,0 @@
-Based on a script by dan_derks, posted by tehn here: https://llllllll.co/t/norns-jumpy-defect-encoders/18856
