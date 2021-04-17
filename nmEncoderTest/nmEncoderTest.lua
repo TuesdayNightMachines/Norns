@@ -72,7 +72,7 @@ end
 
 function redraw()
   screen:clear()
-  screen.level(5)  
+  screen.level(15)  
   for i = 1,3 do
     screen.move(120, 15 + (10*i))
     screen.text_right("e"..i..": "..counter[i])
