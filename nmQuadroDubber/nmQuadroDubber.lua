@@ -1,6 +1,6 @@
 -- nmQuadroDubber
 -- 1.0 @NightMachines
--- llllllll.co/t/...
+-- llllllll.co/t/nmquadrodubber/
 --
 -- Overdub external audio
 -- onto four tape loops
