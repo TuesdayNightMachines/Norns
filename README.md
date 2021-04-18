@@ -1,2 +1,0 @@
-# Norns
-Monome Norns Scripts
